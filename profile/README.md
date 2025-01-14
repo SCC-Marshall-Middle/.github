@@ -1,6 +1,6 @@
 # Game Project
-Link to join the editor: https://vm-4.hyena-char.ts.net/join-session.html
-Link to the live version of the website: https://vm-4.hyena-char.ts.net/
+- Link to join the editor: https://vm-4.hyena-char.ts.net/join-session.html
+- Link to the live version of the website: https://vm-4.hyena-char.ts.net/
 
 ## Templates
 #### HTML/JS/CSS
