@@ -1,7 +1,7 @@
-# Game Project
-- Link to join the editor: https://vm-4.hyena-char.ts.net/join-session.html
-- Link to the live version of the website: https://vm-4.hyena-char.ts.net/
-- To work at home: https://shuchir.notion.site/Working-on-your-game-home-17b3eda7d9ab80f09707eb9e69755d16?pvs=4
+# Game Project Links
+- [Join Editor (in class)](https://vm-4.hyena-char.ts.net/join-session.html)
+- [Website Link](https://vm-4.hyena-char.ts.net/)
+- [Working at home](https://shuchir.notion.site/Working-on-your-game-home-17b3eda7d9ab80f09707eb9e69755d16?pvs=4)
 
 ## Templates
 #### HTML/JS/CSS
