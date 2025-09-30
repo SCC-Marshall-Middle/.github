@@ -1,4 +1,7 @@
 ## Templates
+#### Python
+[New Notebook - molab by marimo](https://molab.marimo.io/notebooks)
+
 #### HTML/JS/CSS
 <a href='https://github.com/codespaces/new/Steel-City-Codes-Marshall-Middle-School/html'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
 
