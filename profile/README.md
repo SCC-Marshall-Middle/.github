@@ -1,6 +1,7 @@
 ## Templates
 #### Python
 [online-python ide](online-python.com)
+
 [Student Notes](https://github.com/SCC-Marshall-Middle/python/blob/main/notes.ipynb)
 
 #### HTML/JS/CSS
